@@ -1,0 +1,20 @@
+{
+  "name": "PSheon",
+  "short_name": "PSheon",
+  "icons": [
+    {
+      "src": "/seo/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/seo/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#282a42",
+  "background_color": "#282a42",
+  "start_url": "/",
+  "display": "standalone"
+}
